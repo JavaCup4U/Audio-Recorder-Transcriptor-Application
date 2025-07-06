@@ -25,9 +25,9 @@ Audio Recorder Application - README
 
 
 ## Core Requirement Goals 
-1. Audio System
-    * Audio Session Management : Set up session with appropriate categories and options.
-    * Route Change Handling and Audio Interruption Recovery: Handle changes in audio routes, headphones plugged/unplugged, bluetooth. Notifications, phone calls, and interruptions with automatic recovery afterwards. 
+1. Audio System (Currently in progress) 
+    * Audio Session Management : Set up session with appropriate categories and options. 
+    * Route Change Handling and Audio Interruption Recovery: Handle changes in audio routes, headphones plugged/unplugged, bluetooth. Notifications, phone calls, and interruptions with automatic recovery afterwards.  
     * Background Recording: Allow application to continue recording when in the background. 
     * Recording Quality: Ability to select audio settings such as sample rate, bit depth, formating.
     * Real-time Audio Monitoring: Option for real-time audio level control and visualization.
