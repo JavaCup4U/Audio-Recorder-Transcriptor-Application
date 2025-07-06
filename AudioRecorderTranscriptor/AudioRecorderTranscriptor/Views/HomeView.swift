@@ -19,19 +19,19 @@ struct HomeView: View {
         VStack {
             
             HStack{
-                Button(action: {
-                    print("Home button tapped ")
-                }){
+                // Title
+                
                     Label("Home", systemImage: "house")
-                }
+                
                     .font(.headline)
                     .foregroundColor(.black)
-                    .frame(maxWidth: .infinity, alignment: .leading)
+                    .frame(maxWidth: .infinity, alignment: .center)
                     .padding(.leading)
                 
             }
             .padding(.bottom, 150)
             
+            // Session Captures / Search Bar
             HStack {
                
                 
@@ -42,7 +42,7 @@ struct HomeView: View {
             }
             .padding()
             
-            
+            // List of Sessions // capture button 
             
             List(sessions, id: \.self)
                 { session in
