@@ -83,6 +83,9 @@ Audio Recorder Application - README
 
 ![AudioRecorderTranscriptor](https://github.com/user-attachments/assets/2c009f16-eff4-4ccb-a811-8ac0d06ccda3)
 
+![Simulator Screenshot - iPhone 16 Pro - 2025-07-05 at 23 53 36](https://github.com/user-attachments/assets/2982f074-ee12-4812-ac22-3c67cd17f8c9)
+
+<img width="226" alt="Screenshot 2025-07-05 at 11 56 31 PM" src="https://github.com/user-attachments/assets/1e38a9f9-bf1e-4c38-bdc7-7f1d8382e6cb" />
 
 
 
